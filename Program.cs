@@ -1,4 +1,4 @@
-﻿using ConsoleApp1;
+﻿using class_car;
 using System.Text;
 
 Console.InputEncoding = Encoding.UTF8;
@@ -11,13 +11,13 @@ Console.OutputEncoding = Encoding.UTF8;
 //string name = "Віктор";
 //short age = 18;
 
-int action = 0 ;
+int action = 0;
 do
 {
     Console.WriteLine("оберіть операцію");
     Console.WriteLine("0.Вихід");
-    Console.WriteLine("1.Додати студента у файл");
-    Console.WriteLine("2.Показати список студентів на навчанні");
+    Console.WriteLine("1.Додати автомобіль у файл");
+    Console.WriteLine("2.Показати список автомобілів");
     Console.Write("->");
     action = int.Parse(Console.ReadLine());
     switch (action)
@@ -25,38 +25,43 @@ do
         case 1:
             {
                 //new - виділяємо память під об'єкт victor
-                Student victor = new Student();
-                Console.WriteLine("Як вас звати?");
-                victor.name = Console.ReadLine(); //змінні в середині класу називаються поля
-                Console.WriteLine("Який ваш вік?");
-                victor.age = int.Parse(Console.ReadLine()); //присвоюємо значення 18
-                Console.WriteLine("Ви зарахованні на навчання.");
-                Console.WriteLine($"{victor.name} {victor.age}");
+                Car bmw = new Car();
+                Console.WriteLine("яка марка автомобіля?");
+                bmw.name = Console.ReadLine(); //змінні в середині класу називаються поля
+                Console.WriteLine("яка модель автомобіля?");
+                bmw.model = Console.ReadLine();
+                Console.WriteLine("якого року автомобіль?");
+                bmw.year = int.Parse(Console.ReadLine()); //присвоюємо значення 18
+                Console.WriteLine("розмір двигуна?");
+                bmw.engine = int.Parse(Console.ReadLine());
+                Console.WriteLine("вітаю у салон.");
+                Console.WriteLine($"{bmw.name} {bmw.model} {bmw.year} {bmw.engine}");
 
                 //Маю файл і режим роботи буде дозапису
                 //Вміст файлу видаляти не буде
                 StreamWriter sw =
-                    new StreamWriter("students.txt", true);
-                sw.WriteLine(victor.name);
-                sw.WriteLine(victor.age);
+                    new StreamWriter("cars.txt", true);
+                sw.WriteLine(bmw.name);
+                sw.WriteLine(bmw.year);
                 sw.Close();
 
                 break;
             }
         case 2:
             {
-                StreamReader sr = new StreamReader("students.txt");
+                StreamReader sr = new StreamReader("cars.txt");
                 string str = sr.ReadLine();
                 while (!string.IsNullOrEmpty(str))
                 {
                     //Console.WriteLine(str);
-                    if(!string.IsNullOrEmpty(str))
+                    if (!string.IsNullOrEmpty(str))
                     {
                         //якщо вдалося прочитати name
-                        Student temp = new Student();
+                        Car temp = new Car();
                         temp.name = str;
-                        temp.age = int.Parse(sr.ReadLine()); //читаю вік
-                        Console.WriteLine($"{temp.name} -- {temp.age}");
+                        temp.model = str;
+                        temp.year = int.Parse(sr.ReadLine()); //читаю вік
+                        Console.WriteLine($"{temp.name} -- {temp.year}");
                     }
                     str = sr.ReadLine();
                 }
