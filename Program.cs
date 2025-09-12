@@ -1,27 +1,30 @@
-﻿using shelter_homework;
+﻿using includeClass;
 using System.Text;
 
 Console.InputEncoding = Encoding.UTF8;
 Console.OutputEncoding = Encoding.UTF8;
 
-Animals Мурчик = new Animals(); //створив змінну для Cat - Мурчик - об'єкт
+Console.WriteLine("Привіт!");
 
-Console.WriteLine("вкажіть тваринку");
-string animal = Console.ReadLine();
-Мурчик.setAnimal (animal);
-Console.WriteLine(Мурчик.getAnimal());
+animalss cat = new animalss();
+cat.SetName("Барсик");
+cat.SetAge(4);
+cat.SetPoroda("Дворовий рижий");
 
-Console.WriteLine("вкажіть ім'я тваринки");
-string name = Console.ReadLine();
-Мурчик.setName(name);
-Console.WriteLine(Мурчик.getName());
+animalss dog = new animalss();
+dog.SetName("Шарік");
+dog.SetAge(6);
+dog.SetPoroda("Мопс");
 
-Console.WriteLine("вкажіть вік тваринки");
-int age = int.Parse(Console.ReadLine());
-Мурчик.setAge(age);
-Console.WriteLine(Мурчик.getAge());
 
-Console.WriteLine("вкажіть породу тваринки");
-string species = Console.ReadLine();
-Мурчик.setSpecies(species);
-Console.WriteLine(Мурчик.getSpecies());
+prytulok troy = new prytulok();
+troy.AddAnimal(cat);
+troy.AddAnimal(dog);
+
+Console.WriteLine("----Тварини у притулку----");
+troy.ShowAnimals();
+
+//Console.WriteLine($"{cat.GetName()}\t{cat.GetAge()}\t{cat.GetPoroda()}");
+//ToString()
+//Console.WriteLine(cat);
+//Console.WriteLine(cat.ToString());
