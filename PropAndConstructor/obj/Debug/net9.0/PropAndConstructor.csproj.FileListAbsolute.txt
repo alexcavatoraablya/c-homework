@@ -1,0 +1,14 @@
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\PropAndConstructor\bin\Debug\net9.0\PropAndConstructor.exe
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\PropAndConstructor\bin\Debug\net9.0\PropAndConstructor.deps.json
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\PropAndConstructor\bin\Debug\net9.0\PropAndConstructor.runtimeconfig.json
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\PropAndConstructor\bin\Debug\net9.0\PropAndConstructor.dll
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\PropAndConstructor\bin\Debug\net9.0\PropAndConstructor.pdb
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\PropAndConstructor\obj\Debug\net9.0\PropAndConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\PropAndConstructor\obj\Debug\net9.0\PropAndConstructor.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\PropAndConstructor\obj\Debug\net9.0\PropAndConstructor.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\PropAndConstructor\obj\Debug\net9.0\PropAndConstructor.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\PropAndConstructor\obj\Debug\net9.0\PropAndConstructor.dll
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\PropAndConstructor\obj\Debug\net9.0\refint\PropAndConstructor.dll
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\PropAndConstructor\obj\Debug\net9.0\PropAndConstructor.pdb
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\PropAndConstructor\obj\Debug\net9.0\PropAndConstructor.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\PropAndConstructor\obj\Debug\net9.0\ref\PropAndConstructor.dll
