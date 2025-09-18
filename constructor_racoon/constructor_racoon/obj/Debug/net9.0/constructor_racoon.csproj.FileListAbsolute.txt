@@ -1,0 +1,14 @@
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\constructor_racoon\constructor_racoon\obj\Debug\net9.0\constructor_racoon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\constructor_racoon\constructor_racoon\obj\Debug\net9.0\constructor_racoon.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\constructor_racoon\constructor_racoon\obj\Debug\net9.0\constructor_racoon.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\constructor_racoon\constructor_racoon\obj\Debug\net9.0\constructor_racoon.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\constructor_racoon\constructor_racoon\bin\Debug\net9.0\constructor_racoon.exe
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\constructor_racoon\constructor_racoon\bin\Debug\net9.0\constructor_racoon.deps.json
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\constructor_racoon\constructor_racoon\bin\Debug\net9.0\constructor_racoon.runtimeconfig.json
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\constructor_racoon\constructor_racoon\bin\Debug\net9.0\constructor_racoon.dll
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\constructor_racoon\constructor_racoon\bin\Debug\net9.0\constructor_racoon.pdb
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\constructor_racoon\constructor_racoon\obj\Debug\net9.0\constructor_racoon.dll
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\constructor_racoon\constructor_racoon\obj\Debug\net9.0\refint\constructor_racoon.dll
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\constructor_racoon\constructor_racoon\obj\Debug\net9.0\constructor_racoon.pdb
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\constructor_racoon\constructor_racoon\obj\Debug\net9.0\constructor_racoon.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\c#\lesson 3.Property\PropAndConstructor\constructor_racoon\constructor_racoon\obj\Debug\net9.0\ref\constructor_racoon.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "constructor_racoon/1.0.0": {
+        "runtime": {
+          "constructor_racoon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "constructor_racoon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
