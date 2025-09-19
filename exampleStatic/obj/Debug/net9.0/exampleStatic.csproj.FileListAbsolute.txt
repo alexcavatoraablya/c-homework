@@ -1,0 +1,17 @@
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\exampleStatic\exampleStatic\bin\Debug\net9.0\exampleStatic.exe
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\exampleStatic\exampleStatic\bin\Debug\net9.0\exampleStatic.deps.json
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\exampleStatic\exampleStatic\bin\Debug\net9.0\exampleStatic.runtimeconfig.json
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\exampleStatic\exampleStatic\bin\Debug\net9.0\exampleStatic.dll
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\exampleStatic\exampleStatic\bin\Debug\net9.0\exampleStatic.pdb
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\exampleStatic\exampleStatic\obj\Debug\net9.0\exampleStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\exampleStatic\exampleStatic\obj\Debug\net9.0\exampleStatic.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\exampleStatic\exampleStatic\obj\Debug\net9.0\exampleStatic.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\exampleStatic\exampleStatic\obj\Debug\net9.0\exampleStatic.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\exampleStatic\exampleStatic\obj\Debug\net9.0\exampleStatic.dll
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\exampleStatic\exampleStatic\obj\Debug\net9.0\refint\exampleStatic.dll
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\exampleStatic\exampleStatic\obj\Debug\net9.0\exampleStatic.pdb
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\exampleStatic\exampleStatic\obj\Debug\net9.0\exampleStatic.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\exampleStatic\exampleStatic\obj\Debug\net9.0\ref\exampleStatic.dll
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\exampleStatic\exampleStatic\bin\Debug\net9.0\Bogus.dll
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\exampleStatic\exampleStatic\obj\Debug\net9.0\exampleStatic.csproj.AssemblyReference.cache
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\exampleStatic\exampleStatic\obj\Debug\net9.0\exampleS.323C2909.Up2Date
