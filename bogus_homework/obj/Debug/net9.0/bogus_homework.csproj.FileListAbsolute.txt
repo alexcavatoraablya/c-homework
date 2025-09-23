@@ -1,0 +1,17 @@
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\bogus_homework\bogus_homework\obj\Debug\net9.0\bogus_homework.csproj.AssemblyReference.cache
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\bogus_homework\bogus_homework\obj\Debug\net9.0\bogus_homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\bogus_homework\bogus_homework\obj\Debug\net9.0\bogus_homework.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\bogus_homework\bogus_homework\obj\Debug\net9.0\bogus_homework.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\bogus_homework\bogus_homework\obj\Debug\net9.0\bogus_homework.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\bogus_homework\bogus_homework\bin\Debug\net9.0\bogus_homework.exe
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\bogus_homework\bogus_homework\bin\Debug\net9.0\bogus_homework.deps.json
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\bogus_homework\bogus_homework\bin\Debug\net9.0\bogus_homework.runtimeconfig.json
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\bogus_homework\bogus_homework\bin\Debug\net9.0\bogus_homework.dll
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\bogus_homework\bogus_homework\bin\Debug\net9.0\bogus_homework.pdb
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\bogus_homework\bogus_homework\bin\Debug\net9.0\Bogus.dll
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\bogus_homework\bogus_homework\obj\Debug\net9.0\bogus_ho.8AECA914.Up2Date
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\bogus_homework\bogus_homework\obj\Debug\net9.0\bogus_homework.dll
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\bogus_homework\bogus_homework\obj\Debug\net9.0\refint\bogus_homework.dll
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\bogus_homework\bogus_homework\obj\Debug\net9.0\bogus_homework.pdb
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\bogus_homework\bogus_homework\obj\Debug\net9.0\bogus_homework.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\c#\lesson4.static method\bogus_homework\bogus_homework\obj\Debug\net9.0\ref\bogus_homework.dll
