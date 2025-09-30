@@ -1,0 +1,14 @@
+C:\Users\STUDENT\Desktop\c#\lesson8.inheritance details\inheritanceDetails\inheritanceDetails\bin\Debug\net9.0\inheritanceDetails.exe
+C:\Users\STUDENT\Desktop\c#\lesson8.inheritance details\inheritanceDetails\inheritanceDetails\bin\Debug\net9.0\inheritanceDetails.deps.json
+C:\Users\STUDENT\Desktop\c#\lesson8.inheritance details\inheritanceDetails\inheritanceDetails\bin\Debug\net9.0\inheritanceDetails.runtimeconfig.json
+C:\Users\STUDENT\Desktop\c#\lesson8.inheritance details\inheritanceDetails\inheritanceDetails\bin\Debug\net9.0\inheritanceDetails.dll
+C:\Users\STUDENT\Desktop\c#\lesson8.inheritance details\inheritanceDetails\inheritanceDetails\bin\Debug\net9.0\inheritanceDetails.pdb
+C:\Users\STUDENT\Desktop\c#\lesson8.inheritance details\inheritanceDetails\inheritanceDetails\obj\Debug\net9.0\inheritanceDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\c#\lesson8.inheritance details\inheritanceDetails\inheritanceDetails\obj\Debug\net9.0\inheritanceDetails.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson8.inheritance details\inheritanceDetails\inheritanceDetails\obj\Debug\net9.0\inheritanceDetails.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\c#\lesson8.inheritance details\inheritanceDetails\inheritanceDetails\obj\Debug\net9.0\inheritanceDetails.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson8.inheritance details\inheritanceDetails\inheritanceDetails\obj\Debug\net9.0\inheritanceDetails.dll
+C:\Users\STUDENT\Desktop\c#\lesson8.inheritance details\inheritanceDetails\inheritanceDetails\obj\Debug\net9.0\refint\inheritanceDetails.dll
+C:\Users\STUDENT\Desktop\c#\lesson8.inheritance details\inheritanceDetails\inheritanceDetails\obj\Debug\net9.0\inheritanceDetails.pdb
+C:\Users\STUDENT\Desktop\c#\lesson8.inheritance details\inheritanceDetails\inheritanceDetails\obj\Debug\net9.0\inheritanceDetails.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\c#\lesson8.inheritance details\inheritanceDetails\inheritanceDetails\obj\Debug\net9.0\ref\inheritanceDetails.dll
