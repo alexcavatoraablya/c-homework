@@ -1,0 +1,14 @@
+C:\Users\STUDENT\Desktop\c#\lesson9.Polymorphism\ExamplePolymorphism\ExamplePolymorphism\bin\Debug\net9.0\ExamplePolymorphism.exe
+C:\Users\STUDENT\Desktop\c#\lesson9.Polymorphism\ExamplePolymorphism\ExamplePolymorphism\bin\Debug\net9.0\ExamplePolymorphism.deps.json
+C:\Users\STUDENT\Desktop\c#\lesson9.Polymorphism\ExamplePolymorphism\ExamplePolymorphism\bin\Debug\net9.0\ExamplePolymorphism.runtimeconfig.json
+C:\Users\STUDENT\Desktop\c#\lesson9.Polymorphism\ExamplePolymorphism\ExamplePolymorphism\bin\Debug\net9.0\ExamplePolymorphism.dll
+C:\Users\STUDENT\Desktop\c#\lesson9.Polymorphism\ExamplePolymorphism\ExamplePolymorphism\bin\Debug\net9.0\ExamplePolymorphism.pdb
+C:\Users\STUDENT\Desktop\c#\lesson9.Polymorphism\ExamplePolymorphism\ExamplePolymorphism\obj\Debug\net9.0\ExamplePolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\c#\lesson9.Polymorphism\ExamplePolymorphism\ExamplePolymorphism\obj\Debug\net9.0\ExamplePolymorphism.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson9.Polymorphism\ExamplePolymorphism\ExamplePolymorphism\obj\Debug\net9.0\ExamplePolymorphism.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\c#\lesson9.Polymorphism\ExamplePolymorphism\ExamplePolymorphism\obj\Debug\net9.0\ExamplePolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson9.Polymorphism\ExamplePolymorphism\ExamplePolymorphism\obj\Debug\net9.0\ExamplePolymorphism.dll
+C:\Users\STUDENT\Desktop\c#\lesson9.Polymorphism\ExamplePolymorphism\ExamplePolymorphism\obj\Debug\net9.0\refint\ExamplePolymorphism.dll
+C:\Users\STUDENT\Desktop\c#\lesson9.Polymorphism\ExamplePolymorphism\ExamplePolymorphism\obj\Debug\net9.0\ExamplePolymorphism.pdb
+C:\Users\STUDENT\Desktop\c#\lesson9.Polymorphism\ExamplePolymorphism\ExamplePolymorphism\obj\Debug\net9.0\ExamplePolymorphism.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\c#\lesson9.Polymorphism\ExamplePolymorphism\ExamplePolymorphism\obj\Debug\net9.0\ref\ExamplePolymorphism.dll
