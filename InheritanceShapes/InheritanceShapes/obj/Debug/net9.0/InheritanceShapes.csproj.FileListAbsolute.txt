@@ -1,0 +1,14 @@
+C:\Users\STUDENT\Desktop\c#\lesson5.inheritance c#\InheritanceShapes\InheritanceShapes\bin\Debug\net9.0\InheritanceShapes.exe
+C:\Users\STUDENT\Desktop\c#\lesson5.inheritance c#\InheritanceShapes\InheritanceShapes\bin\Debug\net9.0\InheritanceShapes.deps.json
+C:\Users\STUDENT\Desktop\c#\lesson5.inheritance c#\InheritanceShapes\InheritanceShapes\bin\Debug\net9.0\InheritanceShapes.runtimeconfig.json
+C:\Users\STUDENT\Desktop\c#\lesson5.inheritance c#\InheritanceShapes\InheritanceShapes\bin\Debug\net9.0\InheritanceShapes.dll
+C:\Users\STUDENT\Desktop\c#\lesson5.inheritance c#\InheritanceShapes\InheritanceShapes\bin\Debug\net9.0\InheritanceShapes.pdb
+C:\Users\STUDENT\Desktop\c#\lesson5.inheritance c#\InheritanceShapes\InheritanceShapes\obj\Debug\net9.0\InheritanceShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\c#\lesson5.inheritance c#\InheritanceShapes\InheritanceShapes\obj\Debug\net9.0\InheritanceShapes.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson5.inheritance c#\InheritanceShapes\InheritanceShapes\obj\Debug\net9.0\InheritanceShapes.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\c#\lesson5.inheritance c#\InheritanceShapes\InheritanceShapes\obj\Debug\net9.0\InheritanceShapes.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson5.inheritance c#\InheritanceShapes\InheritanceShapes\obj\Debug\net9.0\InheritanceShapes.dll
+C:\Users\STUDENT\Desktop\c#\lesson5.inheritance c#\InheritanceShapes\InheritanceShapes\obj\Debug\net9.0\refint\InheritanceShapes.dll
+C:\Users\STUDENT\Desktop\c#\lesson5.inheritance c#\InheritanceShapes\InheritanceShapes\obj\Debug\net9.0\InheritanceShapes.pdb
+C:\Users\STUDENT\Desktop\c#\lesson5.inheritance c#\InheritanceShapes\InheritanceShapes\obj\Debug\net9.0\InheritanceShapes.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\c#\lesson5.inheritance c#\InheritanceShapes\InheritanceShapes\obj\Debug\net9.0\ref\InheritanceShapes.dll
