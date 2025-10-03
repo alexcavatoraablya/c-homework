@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Bogus;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,12 +24,20 @@ public class Student : Person
         _group = "No group";
     }
 
+    public Student(bool isRandom=false)
+        : base(isRandom)
+    {
+        Faker faker = new Faker("uk");
+        _group = "Group"+faker.Random.Int(1, 5);
+    }
+
     public override void ViewInfo()
     {
+        Console.ForegroundColor = ConsoleColor.Green;
         base.ViewInfo();
         string strDate = _entryDate.ToString("dd.MM.yyyy");
         Console.WriteLine("Дата вступу: "+strDate);
-        string strGroup = _group.ToString();
-        Console.WriteLine("Група: "+strGroup);
+        Console.WriteLine("Група: "+_group);
+        Console.ForegroundColor = ConsoleColor.White;
     }
 }

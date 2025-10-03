@@ -12,3 +12,6 @@ C:\Users\STUDENT\Desktop\c#\lesson 10.Abstract\AbstractClass\AbstractClass\obj\D
 C:\Users\STUDENT\Desktop\c#\lesson 10.Abstract\AbstractClass\AbstractClass\obj\Debug\net9.0\AbstractClass.pdb
 C:\Users\STUDENT\Desktop\c#\lesson 10.Abstract\AbstractClass\AbstractClass\obj\Debug\net9.0\AbstractClass.genruntimeconfig.cache
 C:\Users\STUDENT\Desktop\c#\lesson 10.Abstract\AbstractClass\AbstractClass\obj\Debug\net9.0\ref\AbstractClass.dll
+C:\Users\STUDENT\Desktop\c#\lesson 10.Abstract\AbstractClass\AbstractClass\bin\Debug\net9.0\Bogus.dll
+C:\Users\STUDENT\Desktop\c#\lesson 10.Abstract\AbstractClass\AbstractClass\obj\Debug\net9.0\AbstractClass.csproj.AssemblyReference.cache
+C:\Users\STUDENT\Desktop\c#\lesson 10.Abstract\AbstractClass\AbstractClass\obj\Debug\net9.0\Abstract.D698E5A1.Up2Date
