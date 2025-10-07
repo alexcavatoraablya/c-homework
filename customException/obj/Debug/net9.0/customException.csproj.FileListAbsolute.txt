@@ -1,0 +1,14 @@
+C:\Users\STUDENT\Desktop\c#\lesson 11.Custom Exception\customException\customException\bin\Debug\net9.0\customException.exe
+C:\Users\STUDENT\Desktop\c#\lesson 11.Custom Exception\customException\customException\bin\Debug\net9.0\customException.deps.json
+C:\Users\STUDENT\Desktop\c#\lesson 11.Custom Exception\customException\customException\bin\Debug\net9.0\customException.runtimeconfig.json
+C:\Users\STUDENT\Desktop\c#\lesson 11.Custom Exception\customException\customException\bin\Debug\net9.0\customException.dll
+C:\Users\STUDENT\Desktop\c#\lesson 11.Custom Exception\customException\customException\bin\Debug\net9.0\customException.pdb
+C:\Users\STUDENT\Desktop\c#\lesson 11.Custom Exception\customException\customException\obj\Debug\net9.0\customException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\c#\lesson 11.Custom Exception\customException\customException\obj\Debug\net9.0\customException.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson 11.Custom Exception\customException\customException\obj\Debug\net9.0\customException.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\c#\lesson 11.Custom Exception\customException\customException\obj\Debug\net9.0\customException.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson 11.Custom Exception\customException\customException\obj\Debug\net9.0\customException.dll
+C:\Users\STUDENT\Desktop\c#\lesson 11.Custom Exception\customException\customException\obj\Debug\net9.0\refint\customException.dll
+C:\Users\STUDENT\Desktop\c#\lesson 11.Custom Exception\customException\customException\obj\Debug\net9.0\customException.pdb
+C:\Users\STUDENT\Desktop\c#\lesson 11.Custom Exception\customException\customException\obj\Debug\net9.0\customException.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\c#\lesson 11.Custom Exception\customException\customException\obj\Debug\net9.0\ref\customException.dll
