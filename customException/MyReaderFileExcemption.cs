@@ -4,9 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace customException
+namespace customException;
+
+public class MyReaderFileExcemption : Exception
 {
-    internal class MyReaderFileExcemption
+    //конструктор
+    public MyReaderFileExcemption(string text)
+        : base(text)
     {
+        
     }
 }
