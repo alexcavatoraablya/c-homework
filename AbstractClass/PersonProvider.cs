@@ -32,6 +32,22 @@ public class PersonProvider
             _persons.Add(p);
         }
     }
+    /// <summary>
+    /// Записує усіх користувачів у файл
+    /// </summary>
+    /// <param name="stream">Вказівник на потік</param>
+    public void WriteAllToFile(Stream stream)
+    {
+
+    }
+    /// <summary>
+    /// Читання із файлу через потік
+    /// </summary>
+    /// <param name="stream">Вказівник на потік</param>
+    public void ReadAllFile(Stream stream)
+    {
+
+    }
     public void ShowAll()
     {
         foreach (Person p in _persons)

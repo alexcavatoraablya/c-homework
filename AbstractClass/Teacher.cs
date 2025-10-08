@@ -1,4 +1,5 @@
 ﻿using Bogus;
+using Bogus.DataSets;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -45,5 +46,10 @@ public class Teacher : Person
         Console.WriteLine($"Посада: {_position}");
         Console.WriteLine($"Зарплата: {_salary}");
         Console.ForegroundColor = ConsoleColor.White;
+    }
+
+    public override string ToString()
+    {
+        return $"Предмет: {_subject}, Зарплата: {_salary}";
     }
 }

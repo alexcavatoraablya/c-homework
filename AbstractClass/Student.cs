@@ -1,4 +1,5 @@
 ﻿using Bogus;
+using Bogus.DataSets;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -39,5 +40,9 @@ public class Student : Person
         Console.WriteLine("Дата вступу: "+strDate);
         Console.WriteLine("Група: "+_group);
         Console.ForegroundColor = ConsoleColor.White;
+    }
+    public override string ToString()
+    {
+        return $"Дата вступу: {_entryDate}, Група: {_group}";
     }
 }
