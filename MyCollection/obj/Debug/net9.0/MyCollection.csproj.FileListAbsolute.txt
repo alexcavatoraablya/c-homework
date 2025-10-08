@@ -1,0 +1,14 @@
+C:\Users\STUDENT\Desktop\c#\lesson 12.Collections\MyCollection\MyCollection\bin\Debug\net9.0\MyCollection.exe
+C:\Users\STUDENT\Desktop\c#\lesson 12.Collections\MyCollection\MyCollection\bin\Debug\net9.0\MyCollection.deps.json
+C:\Users\STUDENT\Desktop\c#\lesson 12.Collections\MyCollection\MyCollection\bin\Debug\net9.0\MyCollection.runtimeconfig.json
+C:\Users\STUDENT\Desktop\c#\lesson 12.Collections\MyCollection\MyCollection\bin\Debug\net9.0\MyCollection.dll
+C:\Users\STUDENT\Desktop\c#\lesson 12.Collections\MyCollection\MyCollection\bin\Debug\net9.0\MyCollection.pdb
+C:\Users\STUDENT\Desktop\c#\lesson 12.Collections\MyCollection\MyCollection\obj\Debug\net9.0\MyCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\c#\lesson 12.Collections\MyCollection\MyCollection\obj\Debug\net9.0\MyCollection.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson 12.Collections\MyCollection\MyCollection\obj\Debug\net9.0\MyCollection.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\c#\lesson 12.Collections\MyCollection\MyCollection\obj\Debug\net9.0\MyCollection.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson 12.Collections\MyCollection\MyCollection\obj\Debug\net9.0\MyCollection.dll
+C:\Users\STUDENT\Desktop\c#\lesson 12.Collections\MyCollection\MyCollection\obj\Debug\net9.0\refint\MyCollection.dll
+C:\Users\STUDENT\Desktop\c#\lesson 12.Collections\MyCollection\MyCollection\obj\Debug\net9.0\MyCollection.pdb
+C:\Users\STUDENT\Desktop\c#\lesson 12.Collections\MyCollection\MyCollection\obj\Debug\net9.0\MyCollection.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\c#\lesson 12.Collections\MyCollection\MyCollection\obj\Debug\net9.0\ref\MyCollection.dll
