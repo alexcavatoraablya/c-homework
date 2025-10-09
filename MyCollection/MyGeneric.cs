@@ -49,4 +49,21 @@ public class MyGeneric
     {
         items = new object[0];
     }
+
+    public void DeleteItemByValue<T>(ICollection<T> collection, T itemToRemove)
+    {
+        collection.Remove(itemToRemove);
+    }
+
+    public void RemoveRange(object itemDelete)
+    {
+        if (index >= 0 && index < list.Count)
+        {
+            list.RemoveAt(index);
+        }
+        else
+        {
+            throw new ArgumentOutOfRangeException(nameof(index), "Індекс не в радіусі");
+        }
+    }
 }
