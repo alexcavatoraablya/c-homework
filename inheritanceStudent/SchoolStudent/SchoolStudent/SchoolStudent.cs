@@ -15,7 +15,7 @@ internal class SchoolStudent : Person
 
     public override void PrintInfo()
     {
-        Console.WriteLine("Це школяр :)");
         base.PrintInfo();
+        Console.WriteLine("Це школяр");
     }
 }
