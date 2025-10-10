@@ -1,0 +1,14 @@
+C:\Users\STUDENT\Desktop\c#\lesson 14.IComparable\MyComparable\MyComparable\bin\Debug\net9.0\MyComparable.exe
+C:\Users\STUDENT\Desktop\c#\lesson 14.IComparable\MyComparable\MyComparable\bin\Debug\net9.0\MyComparable.deps.json
+C:\Users\STUDENT\Desktop\c#\lesson 14.IComparable\MyComparable\MyComparable\bin\Debug\net9.0\MyComparable.runtimeconfig.json
+C:\Users\STUDENT\Desktop\c#\lesson 14.IComparable\MyComparable\MyComparable\bin\Debug\net9.0\MyComparable.dll
+C:\Users\STUDENT\Desktop\c#\lesson 14.IComparable\MyComparable\MyComparable\bin\Debug\net9.0\MyComparable.pdb
+C:\Users\STUDENT\Desktop\c#\lesson 14.IComparable\MyComparable\MyComparable\obj\Debug\net9.0\MyComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\c#\lesson 14.IComparable\MyComparable\MyComparable\obj\Debug\net9.0\MyComparable.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson 14.IComparable\MyComparable\MyComparable\obj\Debug\net9.0\MyComparable.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\c#\lesson 14.IComparable\MyComparable\MyComparable\obj\Debug\net9.0\MyComparable.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson 14.IComparable\MyComparable\MyComparable\obj\Debug\net9.0\MyComparable.dll
+C:\Users\STUDENT\Desktop\c#\lesson 14.IComparable\MyComparable\MyComparable\obj\Debug\net9.0\refint\MyComparable.dll
+C:\Users\STUDENT\Desktop\c#\lesson 14.IComparable\MyComparable\MyComparable\obj\Debug\net9.0\MyComparable.pdb
+C:\Users\STUDENT\Desktop\c#\lesson 14.IComparable\MyComparable\MyComparable\obj\Debug\net9.0\MyComparable.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\c#\lesson 14.IComparable\MyComparable\MyComparable\obj\Debug\net9.0\ref\MyComparable.dll

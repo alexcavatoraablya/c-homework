@@ -1,0 +1,14 @@
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplatesClass\TemplatesClass\bin\Debug\net9.0\TemplatesClass.exe
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplatesClass\TemplatesClass\bin\Debug\net9.0\TemplatesClass.deps.json
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplatesClass\TemplatesClass\bin\Debug\net9.0\TemplatesClass.runtimeconfig.json
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplatesClass\TemplatesClass\bin\Debug\net9.0\TemplatesClass.dll
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplatesClass\TemplatesClass\bin\Debug\net9.0\TemplatesClass.pdb
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplatesClass\TemplatesClass\obj\Debug\net9.0\TemplatesClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplatesClass\TemplatesClass\obj\Debug\net9.0\TemplatesClass.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplatesClass\TemplatesClass\obj\Debug\net9.0\TemplatesClass.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplatesClass\TemplatesClass\obj\Debug\net9.0\TemplatesClass.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplatesClass\TemplatesClass\obj\Debug\net9.0\TemplatesClass.dll
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplatesClass\TemplatesClass\obj\Debug\net9.0\refint\TemplatesClass.dll
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplatesClass\TemplatesClass\obj\Debug\net9.0\TemplatesClass.pdb
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplatesClass\TemplatesClass\obj\Debug\net9.0\TemplatesClass.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplatesClass\TemplatesClass\obj\Debug\net9.0\ref\TemplatesClass.dll
