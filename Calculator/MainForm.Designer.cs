@@ -33,6 +33,8 @@
             btnMinus = new Button();
             txtB = new TextBox();
             lbResult = new Label();
+            btnDivision = new Button();
+            btnMultiply = new Button();
             SuspendLayout();
             // 
             // btnPlus
@@ -87,11 +89,37 @@
             lbResult.Text = "label1";
             lbResult.Click += lbResult_Click;
             // 
+            // btnDivision
+            // 
+            btnDivision.BackColor = Color.White;
+            btnDivision.Font = new Font("SimSun", 14.25F, FontStyle.Bold);
+            btnDivision.Location = new Point(461, 120);
+            btnDivision.Name = "btnDivision";
+            btnDivision.Size = new Size(39, 39);
+            btnDivision.TabIndex = 5;
+            btnDivision.Text = "/";
+            btnDivision.UseVisualStyleBackColor = false;
+            btnDivision.Click += btnDivision_Click;
+            // 
+            // btnMultiply
+            // 
+            btnMultiply.BackColor = Color.White;
+            btnMultiply.Font = new Font("SimSun", 14.25F, FontStyle.Bold);
+            btnMultiply.Location = new Point(461, 165);
+            btnMultiply.Name = "btnMultiply";
+            btnMultiply.Size = new Size(39, 39);
+            btnMultiply.TabIndex = 6;
+            btnMultiply.Text = "*";
+            btnMultiply.UseVisualStyleBackColor = false;
+            btnMultiply.Click += btnMultiply_Click;
+            // 
             // MainForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(559, 419);
+            Controls.Add(btnMultiply);
+            Controls.Add(btnDivision);
             Controls.Add(lbResult);
             Controls.Add(txtB);
             Controls.Add(btnMinus);
@@ -110,5 +138,7 @@
         private Button btnMinus;
         private TextBox txtB;
         private Label lbResult;
+        private Button btnDivision;
+        private Button btnMultiply;
     }
 }

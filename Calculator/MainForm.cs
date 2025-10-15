@@ -24,7 +24,18 @@ namespace Calculator
             //string text = txtB.Text;
             //MessageBox.Show(text);
         }
-
+        private void btnDivision_Click(object sender, EventArgs e)
+        {
+            int a = int.Parse(txtA.Text);
+            int b = int.Parse(txtB.Text);
+            lbResult.Text = (a / b).ToString();
+        }
+        private void btnMultiply_Click(object sender, EventArgs e)
+        {
+            int a = int.Parse(txtA.Text);
+            int b = int.Parse(txtB.Text);
+            lbResult.Text = (a * b).ToString();
+        }
         private void lbResult_Click(object sender, EventArgs e)
         {
 
