@@ -1,0 +1,14 @@
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplateHW\TemplateHW\bin\Debug\net9.0\TemplateHW.exe
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplateHW\TemplateHW\bin\Debug\net9.0\TemplateHW.deps.json
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplateHW\TemplateHW\bin\Debug\net9.0\TemplateHW.runtimeconfig.json
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplateHW\TemplateHW\bin\Debug\net9.0\TemplateHW.dll
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplateHW\TemplateHW\bin\Debug\net9.0\TemplateHW.pdb
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplateHW\TemplateHW\obj\Debug\net9.0\TemplateHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplateHW\TemplateHW\obj\Debug\net9.0\TemplateHW.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplateHW\TemplateHW\obj\Debug\net9.0\TemplateHW.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplateHW\TemplateHW\obj\Debug\net9.0\TemplateHW.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplateHW\TemplateHW\obj\Debug\net9.0\TemplateHW.dll
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplateHW\TemplateHW\obj\Debug\net9.0\refint\TemplateHW.dll
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplateHW\TemplateHW\obj\Debug\net9.0\TemplateHW.pdb
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplateHW\TemplateHW\obj\Debug\net9.0\TemplateHW.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\c#\lesson 13.Templates\TemplateHW\TemplateHW\obj\Debug\net9.0\ref\TemplateHW.dll
