@@ -1,0 +1,16 @@
+C:\Users\STUDENT\Desktop\c#\lesson 16.ComboBox\Register\Register\bin\Debug\net9.0-windows\Register.exe
+C:\Users\STUDENT\Desktop\c#\lesson 16.ComboBox\Register\Register\bin\Debug\net9.0-windows\Register.deps.json
+C:\Users\STUDENT\Desktop\c#\lesson 16.ComboBox\Register\Register\bin\Debug\net9.0-windows\Register.runtimeconfig.json
+C:\Users\STUDENT\Desktop\c#\lesson 16.ComboBox\Register\Register\bin\Debug\net9.0-windows\Register.dll
+C:\Users\STUDENT\Desktop\c#\lesson 16.ComboBox\Register\Register\bin\Debug\net9.0-windows\Register.pdb
+C:\Users\STUDENT\Desktop\c#\lesson 16.ComboBox\Register\Register\obj\Debug\net9.0-windows\Register.Form1.resources
+C:\Users\STUDENT\Desktop\c#\lesson 16.ComboBox\Register\Register\obj\Debug\net9.0-windows\Register.csproj.GenerateResource.cache
+C:\Users\STUDENT\Desktop\c#\lesson 16.ComboBox\Register\Register\obj\Debug\net9.0-windows\Register.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\c#\lesson 16.ComboBox\Register\Register\obj\Debug\net9.0-windows\Register.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson 16.ComboBox\Register\Register\obj\Debug\net9.0-windows\Register.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\c#\lesson 16.ComboBox\Register\Register\obj\Debug\net9.0-windows\Register.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson 16.ComboBox\Register\Register\obj\Debug\net9.0-windows\Register.dll
+C:\Users\STUDENT\Desktop\c#\lesson 16.ComboBox\Register\Register\obj\Debug\net9.0-windows\refint\Register.dll
+C:\Users\STUDENT\Desktop\c#\lesson 16.ComboBox\Register\Register\obj\Debug\net9.0-windows\Register.pdb
+C:\Users\STUDENT\Desktop\c#\lesson 16.ComboBox\Register\Register\obj\Debug\net9.0-windows\Register.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\c#\lesson 16.ComboBox\Register\Register\obj\Debug\net9.0-windows\ref\Register.dll
