@@ -1,0 +1,14 @@
+C:\Users\STUDENT\Desktop\c#\lesson 18.TwoArray\twoArray\twoArray\bin\Debug\net9.0\twoArray.exe
+C:\Users\STUDENT\Desktop\c#\lesson 18.TwoArray\twoArray\twoArray\bin\Debug\net9.0\twoArray.deps.json
+C:\Users\STUDENT\Desktop\c#\lesson 18.TwoArray\twoArray\twoArray\bin\Debug\net9.0\twoArray.runtimeconfig.json
+C:\Users\STUDENT\Desktop\c#\lesson 18.TwoArray\twoArray\twoArray\bin\Debug\net9.0\twoArray.dll
+C:\Users\STUDENT\Desktop\c#\lesson 18.TwoArray\twoArray\twoArray\bin\Debug\net9.0\twoArray.pdb
+C:\Users\STUDENT\Desktop\c#\lesson 18.TwoArray\twoArray\twoArray\obj\Debug\net9.0\twoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\c#\lesson 18.TwoArray\twoArray\twoArray\obj\Debug\net9.0\twoArray.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson 18.TwoArray\twoArray\twoArray\obj\Debug\net9.0\twoArray.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\c#\lesson 18.TwoArray\twoArray\twoArray\obj\Debug\net9.0\twoArray.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson 18.TwoArray\twoArray\twoArray\obj\Debug\net9.0\twoArray.dll
+C:\Users\STUDENT\Desktop\c#\lesson 18.TwoArray\twoArray\twoArray\obj\Debug\net9.0\refint\twoArray.dll
+C:\Users\STUDENT\Desktop\c#\lesson 18.TwoArray\twoArray\twoArray\obj\Debug\net9.0\twoArray.pdb
+C:\Users\STUDENT\Desktop\c#\lesson 18.TwoArray\twoArray\twoArray\obj\Debug\net9.0\twoArray.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\c#\lesson 18.TwoArray\twoArray\twoArray\obj\Debug\net9.0\ref\twoArray.dll
