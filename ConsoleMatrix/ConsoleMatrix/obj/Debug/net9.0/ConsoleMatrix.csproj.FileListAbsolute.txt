@@ -1,0 +1,14 @@
+C:\Users\STUDENT\Desktop\c#\lesson 19.Matrix\ConsoleMatrix\ConsoleMatrix\bin\Debug\net9.0\ConsoleMatrix.exe
+C:\Users\STUDENT\Desktop\c#\lesson 19.Matrix\ConsoleMatrix\ConsoleMatrix\bin\Debug\net9.0\ConsoleMatrix.deps.json
+C:\Users\STUDENT\Desktop\c#\lesson 19.Matrix\ConsoleMatrix\ConsoleMatrix\bin\Debug\net9.0\ConsoleMatrix.runtimeconfig.json
+C:\Users\STUDENT\Desktop\c#\lesson 19.Matrix\ConsoleMatrix\ConsoleMatrix\bin\Debug\net9.0\ConsoleMatrix.dll
+C:\Users\STUDENT\Desktop\c#\lesson 19.Matrix\ConsoleMatrix\ConsoleMatrix\bin\Debug\net9.0\ConsoleMatrix.pdb
+C:\Users\STUDENT\Desktop\c#\lesson 19.Matrix\ConsoleMatrix\ConsoleMatrix\obj\Debug\net9.0\ConsoleMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\c#\lesson 19.Matrix\ConsoleMatrix\ConsoleMatrix\obj\Debug\net9.0\ConsoleMatrix.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson 19.Matrix\ConsoleMatrix\ConsoleMatrix\obj\Debug\net9.0\ConsoleMatrix.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\c#\lesson 19.Matrix\ConsoleMatrix\ConsoleMatrix\obj\Debug\net9.0\ConsoleMatrix.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson 19.Matrix\ConsoleMatrix\ConsoleMatrix\obj\Debug\net9.0\ConsoleMatrix.dll
+C:\Users\STUDENT\Desktop\c#\lesson 19.Matrix\ConsoleMatrix\ConsoleMatrix\obj\Debug\net9.0\refint\ConsoleMatrix.dll
+C:\Users\STUDENT\Desktop\c#\lesson 19.Matrix\ConsoleMatrix\ConsoleMatrix\obj\Debug\net9.0\ConsoleMatrix.pdb
+C:\Users\STUDENT\Desktop\c#\lesson 19.Matrix\ConsoleMatrix\ConsoleMatrix\obj\Debug\net9.0\ConsoleMatrix.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\c#\lesson 19.Matrix\ConsoleMatrix\ConsoleMatrix\obj\Debug\net9.0\ref\ConsoleMatrix.dll
