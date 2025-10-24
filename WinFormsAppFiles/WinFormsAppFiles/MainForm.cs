@@ -22,14 +22,9 @@ namespace WinFormsAppFiles
 
         private void btnSelectFile_Click(object sender, EventArgs e)
         {
-            //alert
-            //MessageBox.Show("Обираємо файл");
-            
-
             //клас для відкриття вибору файлів
             OpenFileDialog dlgOpenFile = new OpenFileDialog();
             //показуємо діалогове вікно
-            //var dialogResult = dlgOpenFile.ShowDialog();
             DialogResult dialogResult = dlgOpenFile.ShowDialog();
             if (dialogResult == DialogResult.OK)
             {
