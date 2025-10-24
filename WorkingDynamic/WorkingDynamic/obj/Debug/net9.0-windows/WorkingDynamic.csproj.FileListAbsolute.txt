@@ -1,0 +1,16 @@
+C:\Users\STUDENT\Desktop\c#\lesson 20.DynamicForms\WorkingDynamic\WorkingDynamic\bin\Debug\net9.0-windows\WorkingDynamic.exe
+C:\Users\STUDENT\Desktop\c#\lesson 20.DynamicForms\WorkingDynamic\WorkingDynamic\bin\Debug\net9.0-windows\WorkingDynamic.deps.json
+C:\Users\STUDENT\Desktop\c#\lesson 20.DynamicForms\WorkingDynamic\WorkingDynamic\bin\Debug\net9.0-windows\WorkingDynamic.runtimeconfig.json
+C:\Users\STUDENT\Desktop\c#\lesson 20.DynamicForms\WorkingDynamic\WorkingDynamic\bin\Debug\net9.0-windows\WorkingDynamic.dll
+C:\Users\STUDENT\Desktop\c#\lesson 20.DynamicForms\WorkingDynamic\WorkingDynamic\bin\Debug\net9.0-windows\WorkingDynamic.pdb
+C:\Users\STUDENT\Desktop\c#\lesson 20.DynamicForms\WorkingDynamic\WorkingDynamic\obj\Debug\net9.0-windows\WorkingDynamic.MainForm.resources
+C:\Users\STUDENT\Desktop\c#\lesson 20.DynamicForms\WorkingDynamic\WorkingDynamic\obj\Debug\net9.0-windows\WorkingDynamic.csproj.GenerateResource.cache
+C:\Users\STUDENT\Desktop\c#\lesson 20.DynamicForms\WorkingDynamic\WorkingDynamic\obj\Debug\net9.0-windows\WorkingDynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\c#\lesson 20.DynamicForms\WorkingDynamic\WorkingDynamic\obj\Debug\net9.0-windows\WorkingDynamic.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson 20.DynamicForms\WorkingDynamic\WorkingDynamic\obj\Debug\net9.0-windows\WorkingDynamic.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\c#\lesson 20.DynamicForms\WorkingDynamic\WorkingDynamic\obj\Debug\net9.0-windows\WorkingDynamic.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson 20.DynamicForms\WorkingDynamic\WorkingDynamic\obj\Debug\net9.0-windows\WorkingDynamic.dll
+C:\Users\STUDENT\Desktop\c#\lesson 20.DynamicForms\WorkingDynamic\WorkingDynamic\obj\Debug\net9.0-windows\refint\WorkingDynamic.dll
+C:\Users\STUDENT\Desktop\c#\lesson 20.DynamicForms\WorkingDynamic\WorkingDynamic\obj\Debug\net9.0-windows\WorkingDynamic.pdb
+C:\Users\STUDENT\Desktop\c#\lesson 20.DynamicForms\WorkingDynamic\WorkingDynamic\obj\Debug\net9.0-windows\WorkingDynamic.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\c#\lesson 20.DynamicForms\WorkingDynamic\WorkingDynamic\obj\Debug\net9.0-windows\ref\WorkingDynamic.dll
