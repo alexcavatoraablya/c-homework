@@ -1,0 +1,14 @@
+C:\Users\STUDENT\Desktop\c#\lesson22.Events\DelegateEvent\DelegateEvent\bin\Debug\net9.0\DelegateEvent.exe
+C:\Users\STUDENT\Desktop\c#\lesson22.Events\DelegateEvent\DelegateEvent\bin\Debug\net9.0\DelegateEvent.deps.json
+C:\Users\STUDENT\Desktop\c#\lesson22.Events\DelegateEvent\DelegateEvent\bin\Debug\net9.0\DelegateEvent.runtimeconfig.json
+C:\Users\STUDENT\Desktop\c#\lesson22.Events\DelegateEvent\DelegateEvent\bin\Debug\net9.0\DelegateEvent.dll
+C:\Users\STUDENT\Desktop\c#\lesson22.Events\DelegateEvent\DelegateEvent\bin\Debug\net9.0\DelegateEvent.pdb
+C:\Users\STUDENT\Desktop\c#\lesson22.Events\DelegateEvent\DelegateEvent\obj\Debug\net9.0\DelegateEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\c#\lesson22.Events\DelegateEvent\DelegateEvent\obj\Debug\net9.0\DelegateEvent.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson22.Events\DelegateEvent\DelegateEvent\obj\Debug\net9.0\DelegateEvent.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\c#\lesson22.Events\DelegateEvent\DelegateEvent\obj\Debug\net9.0\DelegateEvent.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson22.Events\DelegateEvent\DelegateEvent\obj\Debug\net9.0\DelegateEvent.dll
+C:\Users\STUDENT\Desktop\c#\lesson22.Events\DelegateEvent\DelegateEvent\obj\Debug\net9.0\refint\DelegateEvent.dll
+C:\Users\STUDENT\Desktop\c#\lesson22.Events\DelegateEvent\DelegateEvent\obj\Debug\net9.0\DelegateEvent.pdb
+C:\Users\STUDENT\Desktop\c#\lesson22.Events\DelegateEvent\DelegateEvent\obj\Debug\net9.0\DelegateEvent.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\c#\lesson22.Events\DelegateEvent\DelegateEvent\obj\Debug\net9.0\ref\DelegateEvent.dll
