@@ -15,7 +15,8 @@ public class Car
     //повідомляє на дисплей автомобіля інформацію
     private DisplayInfoDelegate? displayInfoCallback;
     //повідомляє на дисплей автомобіля інформацію про проблеми
-    private DisplayProblemInfoDelegate? displayProblemInfoCallback;
+    //private DisplayProblemInfoDelegate? displayProblemInfoCallback;
+    public event DisplayProblemInfoDelegate? displayProblemInfoCallback;
 
     private string? model; //може зберігати null
     private int speed;
@@ -38,11 +39,11 @@ public class Car
         this.displayInfoCallback = displayInfoCallback;
     }
 
-    public void RegisterDisplayProblemAuto(DisplayProblemInfoDelegate? displayProblemInfoCallback)
-    {
-        //реєструємо метод делегата для повідомлення про проблеми
-        this.displayProblemInfoCallback = displayProblemInfoCallback;
-    }
+    //public void RegisterDisplayProblemAuto(DisplayProblemInfoDelegate? displayProblemInfoCallback)
+    //{
+    //    //реєструємо метод делегата для повідомлення про проблеми
+    //    this.displayProblemInfoCallback = displayProblemInfoCallback;
+    //}
 
     public void Run(int speed)
     {
