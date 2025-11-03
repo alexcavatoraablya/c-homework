@@ -11,6 +11,8 @@ public class Car
     //данний делегат повідомляє інформацію про автомобіль
     public delegate void DisplayInfoDelegate(string info);
     public delegate void DisplayProblemInfoDelegate(string info);
+
+
     //поле для зберігання посилання на метод делегата
     //повідомляє на дисплей автомобіля інформацію
     private DisplayInfoDelegate? displayInfoCallback;
