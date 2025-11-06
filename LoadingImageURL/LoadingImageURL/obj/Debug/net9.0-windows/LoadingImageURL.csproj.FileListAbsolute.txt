@@ -1,0 +1,16 @@
+C:\Users\STUDENT\Desktop\c#\lesson25.LoadingImage\LoadingImageURL\LoadingImageURL\bin\Debug\net9.0-windows\LoadingImageURL.exe
+C:\Users\STUDENT\Desktop\c#\lesson25.LoadingImage\LoadingImageURL\LoadingImageURL\bin\Debug\net9.0-windows\LoadingImageURL.deps.json
+C:\Users\STUDENT\Desktop\c#\lesson25.LoadingImage\LoadingImageURL\LoadingImageURL\bin\Debug\net9.0-windows\LoadingImageURL.runtimeconfig.json
+C:\Users\STUDENT\Desktop\c#\lesson25.LoadingImage\LoadingImageURL\LoadingImageURL\bin\Debug\net9.0-windows\LoadingImageURL.dll
+C:\Users\STUDENT\Desktop\c#\lesson25.LoadingImage\LoadingImageURL\LoadingImageURL\bin\Debug\net9.0-windows\LoadingImageURL.pdb
+C:\Users\STUDENT\Desktop\c#\lesson25.LoadingImage\LoadingImageURL\LoadingImageURL\obj\Debug\net9.0-windows\LoadingImageURL.MainForm.resources
+C:\Users\STUDENT\Desktop\c#\lesson25.LoadingImage\LoadingImageURL\LoadingImageURL\obj\Debug\net9.0-windows\LoadingImageURL.csproj.GenerateResource.cache
+C:\Users\STUDENT\Desktop\c#\lesson25.LoadingImage\LoadingImageURL\LoadingImageURL\obj\Debug\net9.0-windows\LoadingImageURL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\c#\lesson25.LoadingImage\LoadingImageURL\LoadingImageURL\obj\Debug\net9.0-windows\LoadingImageURL.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson25.LoadingImage\LoadingImageURL\LoadingImageURL\obj\Debug\net9.0-windows\LoadingImageURL.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\c#\lesson25.LoadingImage\LoadingImageURL\LoadingImageURL\obj\Debug\net9.0-windows\LoadingImageURL.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson25.LoadingImage\LoadingImageURL\LoadingImageURL\obj\Debug\net9.0-windows\LoadingImageURL.dll
+C:\Users\STUDENT\Desktop\c#\lesson25.LoadingImage\LoadingImageURL\LoadingImageURL\obj\Debug\net9.0-windows\refint\LoadingImageURL.dll
+C:\Users\STUDENT\Desktop\c#\lesson25.LoadingImage\LoadingImageURL\LoadingImageURL\obj\Debug\net9.0-windows\LoadingImageURL.pdb
+C:\Users\STUDENT\Desktop\c#\lesson25.LoadingImage\LoadingImageURL\LoadingImageURL\obj\Debug\net9.0-windows\LoadingImageURL.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\c#\lesson25.LoadingImage\LoadingImageURL\LoadingImageURL\obj\Debug\net9.0-windows\ref\LoadingImageURL.dll
