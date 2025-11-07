@@ -1,0 +1,16 @@
+C:\Users\STUDENT\Desktop\c#\lesson26.ListView\WorkingListView\WorkingListView\bin\Debug\net9.0-windows\WorkingListView.exe
+C:\Users\STUDENT\Desktop\c#\lesson26.ListView\WorkingListView\WorkingListView\bin\Debug\net9.0-windows\WorkingListView.deps.json
+C:\Users\STUDENT\Desktop\c#\lesson26.ListView\WorkingListView\WorkingListView\bin\Debug\net9.0-windows\WorkingListView.runtimeconfig.json
+C:\Users\STUDENT\Desktop\c#\lesson26.ListView\WorkingListView\WorkingListView\bin\Debug\net9.0-windows\WorkingListView.dll
+C:\Users\STUDENT\Desktop\c#\lesson26.ListView\WorkingListView\WorkingListView\bin\Debug\net9.0-windows\WorkingListView.pdb
+C:\Users\STUDENT\Desktop\c#\lesson26.ListView\WorkingListView\WorkingListView\obj\Debug\net9.0-windows\WorkingListView.MainForm.resources
+C:\Users\STUDENT\Desktop\c#\lesson26.ListView\WorkingListView\WorkingListView\obj\Debug\net9.0-windows\WorkingListView.csproj.GenerateResource.cache
+C:\Users\STUDENT\Desktop\c#\lesson26.ListView\WorkingListView\WorkingListView\obj\Debug\net9.0-windows\WorkingListView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\c#\lesson26.ListView\WorkingListView\WorkingListView\obj\Debug\net9.0-windows\WorkingListView.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson26.ListView\WorkingListView\WorkingListView\obj\Debug\net9.0-windows\WorkingListView.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\c#\lesson26.ListView\WorkingListView\WorkingListView\obj\Debug\net9.0-windows\WorkingListView.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson26.ListView\WorkingListView\WorkingListView\obj\Debug\net9.0-windows\WorkingListView.dll
+C:\Users\STUDENT\Desktop\c#\lesson26.ListView\WorkingListView\WorkingListView\obj\Debug\net9.0-windows\refint\WorkingListView.dll
+C:\Users\STUDENT\Desktop\c#\lesson26.ListView\WorkingListView\WorkingListView\obj\Debug\net9.0-windows\WorkingListView.pdb
+C:\Users\STUDENT\Desktop\c#\lesson26.ListView\WorkingListView\WorkingListView\obj\Debug\net9.0-windows\WorkingListView.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\c#\lesson26.ListView\WorkingListView\WorkingListView\obj\Debug\net9.0-windows\ref\WorkingListView.dll
