@@ -1,0 +1,16 @@
+C:\Users\STUDENT\Desktop\c#\lesson27.ListView and ImageView\ListViewImageView\ListViewImageView\bin\Debug\net9.0-windows\ListViewImageView.exe
+C:\Users\STUDENT\Desktop\c#\lesson27.ListView and ImageView\ListViewImageView\ListViewImageView\bin\Debug\net9.0-windows\ListViewImageView.deps.json
+C:\Users\STUDENT\Desktop\c#\lesson27.ListView and ImageView\ListViewImageView\ListViewImageView\bin\Debug\net9.0-windows\ListViewImageView.runtimeconfig.json
+C:\Users\STUDENT\Desktop\c#\lesson27.ListView and ImageView\ListViewImageView\ListViewImageView\bin\Debug\net9.0-windows\ListViewImageView.dll
+C:\Users\STUDENT\Desktop\c#\lesson27.ListView and ImageView\ListViewImageView\ListViewImageView\bin\Debug\net9.0-windows\ListViewImageView.pdb
+C:\Users\STUDENT\Desktop\c#\lesson27.ListView and ImageView\ListViewImageView\ListViewImageView\obj\Debug\net9.0-windows\ListViewImageView.MainForm.resources
+C:\Users\STUDENT\Desktop\c#\lesson27.ListView and ImageView\ListViewImageView\ListViewImageView\obj\Debug\net9.0-windows\ListViewImageView.csproj.GenerateResource.cache
+C:\Users\STUDENT\Desktop\c#\lesson27.ListView and ImageView\ListViewImageView\ListViewImageView\obj\Debug\net9.0-windows\ListViewImageView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\c#\lesson27.ListView and ImageView\ListViewImageView\ListViewImageView\obj\Debug\net9.0-windows\ListViewImageView.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson27.ListView and ImageView\ListViewImageView\ListViewImageView\obj\Debug\net9.0-windows\ListViewImageView.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\c#\lesson27.ListView and ImageView\ListViewImageView\ListViewImageView\obj\Debug\net9.0-windows\ListViewImageView.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\c#\lesson27.ListView and ImageView\ListViewImageView\ListViewImageView\obj\Debug\net9.0-windows\ListViewImageView.dll
+C:\Users\STUDENT\Desktop\c#\lesson27.ListView and ImageView\ListViewImageView\ListViewImageView\obj\Debug\net9.0-windows\refint\ListViewImageView.dll
+C:\Users\STUDENT\Desktop\c#\lesson27.ListView and ImageView\ListViewImageView\ListViewImageView\obj\Debug\net9.0-windows\ListViewImageView.pdb
+C:\Users\STUDENT\Desktop\c#\lesson27.ListView and ImageView\ListViewImageView\ListViewImageView\obj\Debug\net9.0-windows\ListViewImageView.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\c#\lesson27.ListView and ImageView\ListViewImageView\ListViewImageView\obj\Debug\net9.0-windows\ref\ListViewImageView.dll
